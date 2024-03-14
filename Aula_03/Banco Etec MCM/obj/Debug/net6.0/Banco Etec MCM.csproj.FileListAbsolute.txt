@@ -1,0 +1,15 @@
+C:\Users\Aluno\source\repos\Banco Etec MCM\obj\Debug\net6.0\Banco Etec MCM.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\Banco Etec MCM\obj\Debug\net6.0\Banco Etec MCM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\Banco Etec MCM\obj\Debug\net6.0\Banco Etec MCM.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\Banco Etec MCM\obj\Debug\net6.0\Banco Etec MCM.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\Banco Etec MCM\obj\Debug\net6.0\Banco Etec MCM.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Banco Etec MCM\bin\Debug\net6.0\Banco Etec MCM.exe
+C:\Users\Aluno\source\repos\Banco Etec MCM\bin\Debug\net6.0\Banco Etec MCM.deps.json
+C:\Users\Aluno\source\repos\Banco Etec MCM\bin\Debug\net6.0\Banco Etec MCM.runtimeconfig.json
+C:\Users\Aluno\source\repos\Banco Etec MCM\bin\Debug\net6.0\Banco Etec MCM.dll
+C:\Users\Aluno\source\repos\Banco Etec MCM\bin\Debug\net6.0\Banco Etec MCM.pdb
+C:\Users\Aluno\source\repos\Banco Etec MCM\obj\Debug\net6.0\Banco Etec MCM.dll
+C:\Users\Aluno\source\repos\Banco Etec MCM\obj\Debug\net6.0\refint\Banco Etec MCM.dll
+C:\Users\Aluno\source\repos\Banco Etec MCM\obj\Debug\net6.0\Banco Etec MCM.pdb
+C:\Users\Aluno\source\repos\Banco Etec MCM\obj\Debug\net6.0\Banco Etec MCM.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\Banco Etec MCM\obj\Debug\net6.0\ref\Banco Etec MCM.dll
