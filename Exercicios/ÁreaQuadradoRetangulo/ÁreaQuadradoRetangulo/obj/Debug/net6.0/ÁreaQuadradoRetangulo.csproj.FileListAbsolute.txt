@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\Exercicios\ÁreaQuadradoRetangulo\ÁreaQuadradoRetangulo\bin\Debug\net6.0\ÁreaQuadradoRetangulo.exe
+C:\Users\Aluno\Desktop\Exercicios\ÁreaQuadradoRetangulo\ÁreaQuadradoRetangulo\bin\Debug\net6.0\ÁreaQuadradoRetangulo.deps.json
+C:\Users\Aluno\Desktop\Exercicios\ÁreaQuadradoRetangulo\ÁreaQuadradoRetangulo\bin\Debug\net6.0\ÁreaQuadradoRetangulo.runtimeconfig.json
+C:\Users\Aluno\Desktop\Exercicios\ÁreaQuadradoRetangulo\ÁreaQuadradoRetangulo\bin\Debug\net6.0\ÁreaQuadradoRetangulo.dll
+C:\Users\Aluno\Desktop\Exercicios\ÁreaQuadradoRetangulo\ÁreaQuadradoRetangulo\bin\Debug\net6.0\ÁreaQuadradoRetangulo.pdb
+C:\Users\Aluno\Desktop\Exercicios\ÁreaQuadradoRetangulo\ÁreaQuadradoRetangulo\obj\Debug\net6.0\ÁreaQuadradoRetangulo.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Exercicios\ÁreaQuadradoRetangulo\ÁreaQuadradoRetangulo\obj\Debug\net6.0\ÁreaQuadradoRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Exercicios\ÁreaQuadradoRetangulo\ÁreaQuadradoRetangulo\obj\Debug\net6.0\ÁreaQuadradoRetangulo.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Exercicios\ÁreaQuadradoRetangulo\ÁreaQuadradoRetangulo\obj\Debug\net6.0\ÁreaQuadradoRetangulo.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Exercicios\ÁreaQuadradoRetangulo\ÁreaQuadradoRetangulo\obj\Debug\net6.0\ÁreaQuadradoRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Exercicios\ÁreaQuadradoRetangulo\ÁreaQuadradoRetangulo\obj\Debug\net6.0\ÁreaQuadradoRetangulo.dll
+C:\Users\Aluno\Desktop\Exercicios\ÁreaQuadradoRetangulo\ÁreaQuadradoRetangulo\obj\Debug\net6.0\refint\ÁreaQuadradoRetangulo.dll
+C:\Users\Aluno\Desktop\Exercicios\ÁreaQuadradoRetangulo\ÁreaQuadradoRetangulo\obj\Debug\net6.0\ÁreaQuadradoRetangulo.pdb
+C:\Users\Aluno\Desktop\Exercicios\ÁreaQuadradoRetangulo\ÁreaQuadradoRetangulo\obj\Debug\net6.0\ÁreaQuadradoRetangulo.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Exercicios\ÁreaQuadradoRetangulo\ÁreaQuadradoRetangulo\obj\Debug\net6.0\ref\ÁreaQuadradoRetangulo.dll

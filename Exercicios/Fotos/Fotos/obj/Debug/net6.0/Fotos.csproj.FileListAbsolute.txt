@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\Exercicios\Fotos\Fotos\bin\Debug\net6.0\Fotos.exe
+C:\Users\Aluno\Desktop\Exercicios\Fotos\Fotos\bin\Debug\net6.0\Fotos.deps.json
+C:\Users\Aluno\Desktop\Exercicios\Fotos\Fotos\bin\Debug\net6.0\Fotos.runtimeconfig.json
+C:\Users\Aluno\Desktop\Exercicios\Fotos\Fotos\bin\Debug\net6.0\Fotos.dll
+C:\Users\Aluno\Desktop\Exercicios\Fotos\Fotos\bin\Debug\net6.0\Fotos.pdb
+C:\Users\Aluno\Desktop\Exercicios\Fotos\Fotos\obj\Debug\net6.0\Fotos.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Exercicios\Fotos\Fotos\obj\Debug\net6.0\Fotos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Exercicios\Fotos\Fotos\obj\Debug\net6.0\Fotos.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Exercicios\Fotos\Fotos\obj\Debug\net6.0\Fotos.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Exercicios\Fotos\Fotos\obj\Debug\net6.0\Fotos.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Exercicios\Fotos\Fotos\obj\Debug\net6.0\Fotos.dll
+C:\Users\Aluno\Desktop\Exercicios\Fotos\Fotos\obj\Debug\net6.0\refint\Fotos.dll
+C:\Users\Aluno\Desktop\Exercicios\Fotos\Fotos\obj\Debug\net6.0\Fotos.pdb
+C:\Users\Aluno\Desktop\Exercicios\Fotos\Fotos\obj\Debug\net6.0\Fotos.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Exercicios\Fotos\Fotos\obj\Debug\net6.0\ref\Fotos.dll

@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\Exercicios\SegundoEX\SegundoEX\obj\Debug\net6.0\SegundoEX.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Exercicios\SegundoEX\SegundoEX\obj\Debug\net6.0\SegundoEX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Exercicios\SegundoEX\SegundoEX\obj\Debug\net6.0\SegundoEX.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Exercicios\SegundoEX\SegundoEX\obj\Debug\net6.0\SegundoEX.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Exercicios\SegundoEX\SegundoEX\obj\Debug\net6.0\SegundoEX.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Exercicios\SegundoEX\SegundoEX\bin\Debug\net6.0\SegundoEX.exe
+C:\Users\Aluno\Desktop\Exercicios\SegundoEX\SegundoEX\bin\Debug\net6.0\SegundoEX.deps.json
+C:\Users\Aluno\Desktop\Exercicios\SegundoEX\SegundoEX\bin\Debug\net6.0\SegundoEX.runtimeconfig.json
+C:\Users\Aluno\Desktop\Exercicios\SegundoEX\SegundoEX\bin\Debug\net6.0\SegundoEX.dll
+C:\Users\Aluno\Desktop\Exercicios\SegundoEX\SegundoEX\bin\Debug\net6.0\SegundoEX.pdb
+C:\Users\Aluno\Desktop\Exercicios\SegundoEX\SegundoEX\obj\Debug\net6.0\SegundoEX.dll
+C:\Users\Aluno\Desktop\Exercicios\SegundoEX\SegundoEX\obj\Debug\net6.0\refint\SegundoEX.dll
+C:\Users\Aluno\Desktop\Exercicios\SegundoEX\SegundoEX\obj\Debug\net6.0\SegundoEX.pdb
+C:\Users\Aluno\Desktop\Exercicios\SegundoEX\SegundoEX\obj\Debug\net6.0\SegundoEX.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Exercicios\SegundoEX\SegundoEX\obj\Debug\net6.0\ref\SegundoEX.dll
