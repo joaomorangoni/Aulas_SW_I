@@ -1,0 +1,14 @@
+C:\Users\lab1-aluno\Downloads\ControleEstoque\ControleEstoque\bin\Debug\net6.0\ControleEstoque.exe
+C:\Users\lab1-aluno\Downloads\ControleEstoque\ControleEstoque\bin\Debug\net6.0\ControleEstoque.deps.json
+C:\Users\lab1-aluno\Downloads\ControleEstoque\ControleEstoque\bin\Debug\net6.0\ControleEstoque.runtimeconfig.json
+C:\Users\lab1-aluno\Downloads\ControleEstoque\ControleEstoque\bin\Debug\net6.0\ControleEstoque.dll
+C:\Users\lab1-aluno\Downloads\ControleEstoque\ControleEstoque\bin\Debug\net6.0\ControleEstoque.pdb
+C:\Users\lab1-aluno\Downloads\ControleEstoque\ControleEstoque\obj\Debug\net6.0\ControleEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab1-aluno\Downloads\ControleEstoque\ControleEstoque\obj\Debug\net6.0\ControleEstoque.AssemblyInfoInputs.cache
+C:\Users\lab1-aluno\Downloads\ControleEstoque\ControleEstoque\obj\Debug\net6.0\ControleEstoque.AssemblyInfo.cs
+C:\Users\lab1-aluno\Downloads\ControleEstoque\ControleEstoque\obj\Debug\net6.0\ControleEstoque.csproj.CoreCompileInputs.cache
+C:\Users\lab1-aluno\Downloads\ControleEstoque\ControleEstoque\obj\Debug\net6.0\ControleEstoque.dll
+C:\Users\lab1-aluno\Downloads\ControleEstoque\ControleEstoque\obj\Debug\net6.0\refint\ControleEstoque.dll
+C:\Users\lab1-aluno\Downloads\ControleEstoque\ControleEstoque\obj\Debug\net6.0\ControleEstoque.pdb
+C:\Users\lab1-aluno\Downloads\ControleEstoque\ControleEstoque\obj\Debug\net6.0\ControleEstoque.genruntimeconfig.cache
+C:\Users\lab1-aluno\Downloads\ControleEstoque\ControleEstoque\obj\Debug\net6.0\ref\ControleEstoque.dll
